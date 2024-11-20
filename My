@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Pagination</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h2> MyPagination </h2>
+        <p> Takes You To Actual Pages</p>
+        <!-- Declare the pagination class -->
+        <ul class="pagination">
+
+            <!-- Declare the item in the group -->
+            <li class="page-item">
+
+                <!-- Declare the link of the item -->
+                <a class="page-link" href="https://www.codingal.com/student/dashboard/projects/11066538/">Codingal</a>
+            </li>
+
+            <!-- Rest of the pagination items -->
+            <li class="page-item">
+                <a class="page-link"
+                    href="https://www.tiktok.com/@imissmyman06072024/video/7436909403804028190?kref=https%253A%252F%252Fproductivitystacks.com%252Fhootsuite-vs-sprout-social-which-social-media-management-tool-is-right-for-your-business%252F&kuid=e817f3ca-9eff-484a-b620-d9ab0df56eaf-1729728000">Tik
+                    Tok</a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="https://github.com/join/welcome">GitHub</a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="https://www.youtube.com/">YouTube</a>
+            </li>
+            <li class="page-item">
+                <a class="page-link"
+                    href="https://replit.com/login?source=home&goto=%2F%7Ehttps://replit.com/login?source=home&goto=%2F%7E">Replit</a>
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html>
